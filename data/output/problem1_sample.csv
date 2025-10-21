@@ -1,0 +1,11 @@
+log_entry,log_level
+"17/06/09 09:56:58 INFO python.PythonRunner: Times: total = 44, boot = 21, init = 23, finish = 0",INFO
+"17/03/16 16:57:19 INFO BlockManagerInfo: Added broadcast_2_piece10 in memory on 10.10.34.20:42062 (size: 4.0 MB, free: 26.4 GB)",INFO
+17/06/09 11:19:48 INFO storage.BlockManager: Found block rdd_1700_38 locally,INFO
+"17/06/09 21:21:37 INFO storage.MemoryStore: Block broadcast_2052_piece0 stored as bytes in memory (estimated size 29.1 KB, free 2.4 MB)",INFO
+17/06/09 13:04:05 INFO executor.Executor: Finished task 39.0 in stage 12501.0 (TID 500513). 2364 bytes result sent to driver,INFO
+17/06/08 16:30:53 INFO executor.Executor: Finished task 5.0 in stage 975.0 (TID 39005). 2113 bytes result sent to driver,INFO
+"17/06/08 17:53:17 INFO python.PythonRunner: Times: total = 40, boot = 27, init = 13, finish = 0",INFO
+17/06/09 17:13:34 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 51316,INFO
+"17/06/08 19:52:19 INFO python.PythonRunner: Times: total = 41, boot = -22, init = 63, finish = 0",INFO
+"17/06/08 20:55:03 INFO python.PythonRunner: Times: total = 44, boot = -29, init = 73, finish = 0",INFO
